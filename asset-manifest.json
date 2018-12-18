@@ -1,13 +1,13 @@
 {
-  "main.css": "/project-manager-application/static/css/main.6b2fcf9f.chunk.css",
-  "main.js": "/project-manager-application/static/js/main.dfa5f12b.chunk.js",
-  "main.js.map": "/project-manager-application/static/js/main.dfa5f12b.chunk.js.map",
-  "static/js/1.9347b277.chunk.js": "/project-manager-application/static/js/1.9347b277.chunk.js",
-  "static/js/1.9347b277.chunk.js.map": "/project-manager-application/static/js/1.9347b277.chunk.js.map",
+  "main.css": "/project-manager-application/static/css/main.01f34d17.chunk.css",
+  "main.js": "/project-manager-application/static/js/main.5e894a60.chunk.js",
+  "main.js.map": "/project-manager-application/static/js/main.5e894a60.chunk.js.map",
+  "static/js/1.18c62830.chunk.js": "/project-manager-application/static/js/1.18c62830.chunk.js",
+  "static/js/1.18c62830.chunk.js.map": "/project-manager-application/static/js/1.18c62830.chunk.js.map",
   "runtime~main.js": "/project-manager-application/static/js/runtime~main.9e081da8.js",
   "runtime~main.js.map": "/project-manager-application/static/js/runtime~main.9e081da8.js.map",
-  "static/css/main.6b2fcf9f.chunk.css.map": "/project-manager-application/static/css/main.6b2fcf9f.chunk.css.map",
+  "static/css/main.01f34d17.chunk.css.map": "/project-manager-application/static/css/main.01f34d17.chunk.css.map",
   "index.html": "/project-manager-application/index.html",
-  "precache-manifest.45f9c4904e5f999b101dddeafbb36f23.js": "/project-manager-application/precache-manifest.45f9c4904e5f999b101dddeafbb36f23.js",
+  "precache-manifest.2c7738c2f6a5f2d509c548c6edf30763.js": "/project-manager-application/precache-manifest.2c7738c2f6a5f2d509c548c6edf30763.js",
   "service-worker.js": "/project-manager-application/service-worker.js"
 }
