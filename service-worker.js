@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "https://anni.io/project-manager-application/precache-manifest.c394ee15708ca879bfca5050a3f769f3.js"
+  "https://anni.io/project-manager-application/precache-manifest.edb05fc237869b2f0b4c11d9ea36498b.js"
 );
 
 workbox.clientsClaim();
