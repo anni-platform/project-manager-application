@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "6d2028234c9fb7ac9377",
+    "revision": "24c6a0f3fd3e1c8a1cae",
     "url": "https://anni.io/project-manager-application/static/css/main.91fc5455.chunk.css"
   },
   {
-    "revision": "6d2028234c9fb7ac9377",
-    "url": "https://anni.io/project-manager-application/static/js/main.e6bb2ab9.chunk.js"
+    "revision": "24c6a0f3fd3e1c8a1cae",
+    "url": "https://anni.io/project-manager-application/static/js/main.7a1456b1.chunk.js"
   },
   {
     "revision": "a2be7a8595229d78fcf4",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "https://anni.io/project-manager-application/static/js/5.855265d0.chunk.js"
   },
   {
-    "revision": "e104a5d1d8508cac7624287fbb3f8c4c",
+    "revision": "daf19f9a101907411f401e24722882ba",
     "url": "https://anni.io/project-manager-application/index.html"
   }
 ];
